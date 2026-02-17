@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently learning Git, Github and Terraform.
+I'm currently learning Git, GitHub and Terraform.
 
 Ask me about anything! For now, I probably can't answer much in terms of coding, but still... :D
 
