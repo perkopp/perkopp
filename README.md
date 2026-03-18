@@ -1,21 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**perkopp/perkopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my public profile repository! This README appears on my GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm currently learning Git, GitHub and Terraform.
+I'm currently learning Git, GitHub, and Terraform.
 
 Ask me about anything! For now, I probably can't answer much in terms of coding, but still... :D
 
-If you would like to reach out, come find me on LinkedIn: https://www.linkedin.com/in/perkopp
+If you would like to reach out, come find me on [LinkedIn](https://www.linkedin.com/in/perkopp).
+
+---
+
+## About this repository
+
+This repository contains public profile information, open source projects, and general contributions by perkopp.
+
+- Public documentation
+- Open source scripts and tools
+- Community contributions
